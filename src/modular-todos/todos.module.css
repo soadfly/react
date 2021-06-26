@@ -1,0 +1,19 @@
+/* CSS MODULE
+
+PRO
+- evidentazione sintassi
+- regole globali (media queries)
+- stili non ridondanti
+
+CONTRO
+- statici
+- non applicabili localmente 
+- non applicabili globalmente
+- non riusabili 
+
+*/
+
+
+.done{
+    text-decoration: line-through;
+}
